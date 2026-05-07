@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://x3accessories.com/sitemap.xml
